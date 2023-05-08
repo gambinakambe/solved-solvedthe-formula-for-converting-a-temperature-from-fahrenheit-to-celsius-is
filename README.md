@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedthe-formula-for-converting-a-temperature-from-fahrenheit-to-celsius-is
+<br>
+Program 1The formula for converting a temperature from Fahrenheit to Celsius is C = 5/9 * (F – 32)Where F is the Fahrenheit temperature and C is the Celsius temperature. Write a method named Celsius that accepts a single argument, the temperature in Fahrenheit. The method should return the temperature converted to Celsius. Demonstrate the method by calling it in a loop that displays a table of Fahrenheit temperatures 0 through 20 and their Celsius equivalents.
